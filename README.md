@@ -23,7 +23,7 @@
 <p> O projeto foi inspirado em uma calculadora. Compartilho este conhecimento através deste vídeo feito pelo <a href="https://www.youtube.com/watch?v=93wPYo1pjic">Felipe Rocha</a></p>
 
 <h2 align="center"> 
-	Projeto concluído com sucesso... <img src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"> 
+	Projeto concluído com sucesso... 🚀
 </h2>
 
 <h2 align="center">Abaixo um vídeo do projeto. 📹</h2>

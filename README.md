@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-<p align="center">Este projeto é baseado em uma calculadora .</p>
+<p align="left">Este projeto é baseado em uma calculadora.</p>
 
 ### Features
 
